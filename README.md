@@ -16,6 +16,8 @@ This is a simple web project.
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull request for review
+
 ### Copyright
 
 2014 Git.Training
